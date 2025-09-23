@@ -1,5 +1,0 @@
-package com.klef.fsd.sdp.controller;
-
-public class 1 {
-    
-}
