@@ -12,6 +12,7 @@ A full-stack **Ticket Booking Application** built with **React + TailwindCSS** (
 * Responsive UI with TailwindCSS.
 * REST API with Spring Boot + JPA + H2 (in-memory database).
 * Easy to extend with authentication, payments, or admin dashboard.
+<<<<<<< HEAD
 
 ---
 
@@ -92,3 +93,5 @@ MIT License. Free to use and modify.
 ### Author
 
 Built with React & Spring Boot.
+=======
+>>>>>>> manager-pavithra
